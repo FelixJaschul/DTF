@@ -1,0 +1,103 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 100
+	last_login_time: 1766314109638L
+	chunks: {
+		"minecraft:the_nether": [{ x: 3, z: 2, time: 1765822646195L, force_loaded: 1765822646517L }]
+		"minecraft:the_end": [
+			{ x: 6, z: -1, time: 1765822654539L, force_loaded: 1765822655027L }
+			{ x: 6, z: 0, time: 1765822654539L, force_loaded: 1765822655027L }
+		]
+		"javd:void": [
+			{ x: 29, z: 28, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 28, z: 29, time: 1765228586929L, force_loaded: 1765228594492L }
+			{ x: 28, z: 23, time: 1764935355188L, force_loaded: 1764935355427L }
+			{ x: 30, z: 26, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 31, z: 27, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 26, z: 22, time: 1765228574843L, force_loaded: 1765228597407L }
+			{ x: 30, z: 22, time: 1765228575991L, force_loaded: 1765228594492L }
+			{ x: 27, z: 22, time: 1765228574165L, force_loaded: 1765228597407L }
+			{ x: 27, z: 25, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 32, z: 27, time: 1765228581037L, force_loaded: 1765228594492L }
+			{ x: 26, z: 26, time: 1765228581038L, force_loaded: 1765228597407L }
+			{ x: 30, z: 25, time: 1765228581037L, force_loaded: 1765228594492L }
+			{ x: 29, z: 24, time: 1765228581037L, force_loaded: 1765228594491L }
+			{ x: 29, z: 32, time: 1765228609053L, force_loaded: 1765228610456L }
+			{ x: 28, z: 22, time: 1764874830538L, force_loaded: 1764874830963L }
+			{ x: 31, z: 23, time: 1765228575991L, force_loaded: 1765228594492L }
+			{ x: 29, z: 25, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 30, z: 32, time: 1765228609053L, force_loaded: 1765228610456L }
+			{ x: 28, z: 27, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 28, z: 25, time: 1765228581038L, force_loaded: 1765228594494L }
+			{ x: 32, z: 24, time: 1765228581038L, force_loaded: 1765228594494L }
+			{ x: 27, z: 28, time: 1765228581037L, force_loaded: 1765228594491L }
+			{ x: 29, z: 27, time: 1765228581038L, force_loaded: 1765228594494L }
+			{ x: 30, z: 31, time: 1765228609053L, force_loaded: 1765228610456L }
+			{ x: 26, z: 28, time: 1765228581038L, force_loaded: 1765228597406L }
+			{ x: 27, z: 29, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 29, z: 26, time: 1765228581037L, force_loaded: 1765228594491L }
+			{ x: 32, z: 23, time: 1765228582922L, force_loaded: 1765228594491L }
+			{ x: 28, z: 26, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 31, z: 24, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 31, z: 32, time: 1765228612548L, force_loaded: 1765228613641L }
+			{ x: 30, z: 23, time: 1765228575991L, force_loaded: 1765228594493L }
+			{ x: 27, z: 31, time: 1765228612548L, force_loaded: 1765228613641L }
+			{ x: 29, z: 23, time: 1765228576596L, force_loaded: 1765228594493L }
+			{ x: 32, z: 26, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 31, z: 25, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 28, z: 31, time: 1765228609053L, force_loaded: 1765228610456L }
+			{ x: 29, z: 31, time: 1765228609053L, force_loaded: 1765228610457L }
+			{ x: 28, z: 28, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 31, z: 22, time: 1765228575991L, force_loaded: 1765228594493L }
+			{ x: 26, z: 27, time: 1765228581038L, force_loaded: 1765228597407L }
+			{ x: 30, z: 21, time: 1765228584656L, force_loaded: 1765228594493L }
+			{ x: 28, z: 24, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 27, z: 30, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 28, z: 32, time: 1765228609053L, force_loaded: 1765228610456L }
+			{ x: 30, z: 30, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 27, z: 27, time: 1765228581037L, force_loaded: 1765228594493L }
+			{ x: 32, z: 22, time: 1765228582921L, force_loaded: 1765228594493L }
+			{ x: 29, z: 29, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 32, z: 25, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 31, z: 26, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 30, z: 27, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 28, z: 30, time: 1765228586929L, force_loaded: 1765228594492L }
+			{ x: 30, z: 24, time: 1765228581037L, force_loaded: 1765228594492L }
+			{ x: 31, z: 28, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 29, z: 30, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 29, z: 22, time: 1765228576596L, force_loaded: 1765228594492L }
+			{ x: 31, z: 31, time: 1765228612548L, force_loaded: 1765228613641L }
+			{ x: 27, z: 24, time: 1765228581038L, force_loaded: 1765228594493L }
+			{ x: 27, z: 32, time: 1765228612548L, force_loaded: 1765228613641L }
+			{ x: 26, z: 23, time: 1765228574165L, force_loaded: 1765228597407L }
+			{ x: 30, z: 29, time: 1765228586929L, force_loaded: 1765228594493L }
+			{ x: 31, z: 29, time: 1765228586929L, force_loaded: 1765228594492L }
+			{ x: 27, z: 23, time: 1765228574162L, force_loaded: 1765228597407L }
+			{ x: 29, z: 21, time: 1765228584656L, force_loaded: 1765228594493L }
+			{ x: 32, z: 28, time: 1765228581037L, force_loaded: 1765228594493L }
+			{ x: 30, z: 28, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 28, z: 21, time: 1764937295003L, force_loaded: 1764937295271L }
+			{ x: 26, z: 24, time: 1765228581038L, force_loaded: 1765228597407L }
+			{ x: 27, z: 26, time: 1765228581038L, force_loaded: 1765228594492L }
+			{ x: 26, z: 25, time: 1765228581038L, force_loaded: 1765228597406L }
+			{ x: 31, z: 30, time: 1765228586929L, force_loaded: 1765228594492L }
+		]
+	}
+	member_data: {
+		c3c129b6-be0e-41ac-8291-e659f4538e01: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 100
+		}
+		a2e2293c-9c08-4d96-8026-99dcaf8ec622: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 100
+		}
+		62f92b74-e201-4ab5-8758-9ce2f839be5b: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 100
+		}
+	}
+}

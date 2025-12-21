@@ -1,0 +1,32 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "javd:void", x: 466, y: 82, z: 394, time: 1766314109603L, xRot: 7.349958f, yRot: 41.14447f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:the_end", x: 99, y: 50, z: 0, time: 1765822390071L, xRot: 20.400333f, yRot: -19.190786f }
+		{ dim: "minecraft:overworld", x: 455, y: -58, z: 337, time: 1765822403120L, xRot: 49.9498f, yRot: 145.84966f }
+		{ dim: "minecraft:the_end", x: 102, y: 50, z: 1, time: 1765822490842L, xRot: 15.300476f, yRot: 122.71101f }
+		{ dim: "minecraft:the_nether", x: 59, y: 104, z: 44, time: 1765822544066L, xRot: 8.999699f, yRot: -94.90174f }
+		{ dim: "javd:void", x: 452, y: 75, z: 406, time: 1765822632860L, xRot: 39.149483f, yRot: -107.24443f }
+		{ dim: "minecraft:the_nether", x: 57, y: 104, z: 44, time: 1765822649712L, xRot: 20.24999f, yRot: 131.14803f }
+		{ dim: "minecraft:the_end", x: 100, y: 50, z: 0, time: 1765822658321L, xRot: 30.000677f, yRot: 96.00957f }
+		{ dim: "javd:void", x: 453, y: 73, z: 406, time: 1765823074222L, xRot: 17.5496f, yRot: -147.14732f }
+		{ dim: "minecraft:the_end", x: 101, y: 50, z: 0, time: 1765823106125L, xRot: 6.0007334f, yRot: 67.05983f }
+	]
+	homes: {
+		deepslate: { dim: "minecraft:overworld", x: 457, y: -59, z: 330, time: 1764937141800L, xRot: 5.3996763f, yRot: -3.700531f }
+		sand: { dim: "minecraft:overworld", x: 376, y: 60, z: 224, time: 1764875777228L, xRot: 35.775852f, yRot: -68.338196f }
+		void: { dim: "javd:void", x: 451, y: 72, z: 362, time: 1764871590344L, xRot: 39.60066f, yRot: 24.157202f }
+		salt: { dim: "minecraft:overworld", x: 295, y: 55, z: 632, time: 1764873200351L, xRot: 57.600105f, yRot: -62.081726f }
+		nethe: { dim: "minecraft:the_nether", x: 56, y: 109, z: 45, time: 1764975382867L, xRot: 36.14976f, yRot: -3.8513966f }
+		coal: { dim: "minecraft:overworld", x: 433, y: 43, z: 338, time: 1764872453614L, xRot: -14.550638f, yRot: -120.25427f }
+		iron: { dim: "minecraft:overworld", x: 387, y: 32, z: 777, time: 1764873873067L, xRot: -5.8496175f, yRot: 20.091888f }
+		copper: { dim: "minecraft:overworld", x: 447, y: -18, z: 337, time: 1764936829042L, xRot: 31.949968f, yRot: -64.46192f }
+		end: { dim: "minecraft:the_end", x: 100, y: 49, z: 0, time: 1764975410706L, xRot: 45.150707f, yRot: 137.25974f }
+		overworld: { dim: "minecraft:overworld", x: 452, y: 72, z: 362, time: 1764871926135L, xRot: 25.7995f, yRot: 45.040993f }
+	}
+	kit_use_times: { }
+}

@@ -1,0 +1,37 @@
+{
+	id: "fee99538-7044-4eb3-bb6b-3f0f5b45965e"
+	type: "party"
+	owner: "c3c129b6-be0e-41ac-8291-e659f4538e01"
+	ranks: {
+		62f92b74-e201-4ab5-8758-9ce2f839be5b: "member"
+		a2e2293c-9c08-4d96-8026-99dcaf8ec622: "member"
+		c3c129b6-be0e-41ac-8291-e659f4538e01: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Die Gooner"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764871127802L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Felistig\"}]}" }
+		{ from: "c3c129b6-be0e-41ac-8291-e659f4538e01", date: 1764871127808L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Wurstpral1ne\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764871129615L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Wurstpral1ne\"}]}" }
+		{ from: "c3c129b6-be0e-41ac-8291-e659f4538e01", date: 1764875287407L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Paxson187\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1764875290337L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Paxson187\"}]}" }
+	]
+	extra: { }
+}
